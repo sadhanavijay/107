@@ -1,0 +1,5 @@
+
+Steps to detect and track an object in video using OpenCV. 1.Load the video.
+ 2.Start the tracker(the inbuilt algorithm in OpenCV).
+  3.Object Selection by creating a bounding box around the object using the mouse.
+ 4.Get the center point of the bounding box. 5.Plot the trajectory using center points
